@@ -24,5 +24,3 @@
    - I also used ROC AUC, which tells us about the model's capability to differentiate between our classes.
    - To get a more detailed view, I plotted a confusion matrix and generated a classification report. This gave insights into true positives, true negatives, false positives, and false negatives.
    - Lastly, I visualized the ROC curve to see the true positive rate against the false positive rate for different thresholds.
-
-And that's a summary of what I did with the code. Let me know if you'd like to dive deeper into any specific parts or if you have any questions!
